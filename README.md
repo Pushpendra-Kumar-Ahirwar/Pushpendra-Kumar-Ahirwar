@@ -1,9 +1,9 @@
 [![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://github.com/Pushpendra-Kumar-Ahirwar)
-)]
+)](https://github.com/Pushpendra-Kumar-Ahirwar)
 
 <h1 align="center">Hi 👋, I'm Pushpendra Kumar Ahirwar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img src="<img width = "400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpendra-kumar-ahirwar&label=Profile%20views&color=0e75b6&style=flat" alt="pushpendra-kumar-ahirwar" /> </p>
 
