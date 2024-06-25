@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushpendra-kumar-ahirwar" alt="pushpendra-kumar-ahirwar" /></a> </p>
 
-- 💬 Ask me about **React, NextJS, React Native,**
+- 💬 Ask me about **React, NextJS**
 
 - 📫 How to reach me **rajpushpendra19@gmail.com**
 
