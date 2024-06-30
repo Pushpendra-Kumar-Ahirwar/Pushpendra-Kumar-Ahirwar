@@ -1,5 +1,4 @@
 [![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://github.com/Pushpendra-Kumar-Ahirwar)
-)]
 
 <h1 align="center">Hi 👋, I'm Pushpendra Kumar Ahirwar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
